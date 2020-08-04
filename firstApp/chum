@@ -1,0 +1,10 @@
+ print(request.method == 'POST')
+        if request.method == 'POST':
+                self.postMethod(request)
+
+
+
+
+
+
+   
